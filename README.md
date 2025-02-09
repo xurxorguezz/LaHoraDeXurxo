@@ -1,5 +1,6 @@
 # La Hora de Xurxo
-A sleek and modern circular clock implementation featuring an elegant design with three concentric rings representing hours, minutes, and seconds. Created by @xurxorguezz
+A sleek and modern circular clock implementation featuring an elegant design with three concentric rings representing hours, minutes, and seconds.
+Created by @xurxorguezz_
 
 ## Features
 - Clean, minimalist design with circular progress indicators

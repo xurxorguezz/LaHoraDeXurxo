@@ -17,15 +17,18 @@ A sleek and modern circular clock implementation featuring an elegant design wit
 - CSS3
 - JavaScript
 
-[Live Demo](https://xurxorguezz.github.io/LaHoraDeXurxo)
+# Live Demo
+[View Live Demo](https://xurxorguezz.github.io/LaHoraDeXurxo)
 
 ## Installation
 
 1.- Clone the repository:
 
-bashCopygit clone https://github.com/xurxorguezz_/LaHoraDeXurxo.git
+```bash
+git clone https://github.com/xurxorguezz_/LaHoraDeXurxo.git
+```
 
-Open index.html in your preferred browser
+Open `index.html` in your preferred browser
 
 ## Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.

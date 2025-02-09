@@ -33,5 +33,5 @@ Abre `index.html` en tu navegador preferido
 
 ## Contribuir
 Contribuciones, problemas y peticiones de funcionalidades son bienvenidas. No dudes en consultar la página de incidencias.
-
-Traducción realizada con la versión gratuita del traductor DeepL.com
+# License
+This project is licensed under the MIT License

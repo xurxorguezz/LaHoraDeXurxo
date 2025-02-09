@@ -1,35 +1,37 @@
 # La Hora de Xurxo
-A sleek and modern circular clock implementation featuring an elegant design with three concentric rings representing hours, minutes, and seconds.
-Created by @xurxorguezz_
+Una implementación de reloj circular elegante y moderna que presenta un diseño elegante con tres anillos concéntricos que representan las horas, los minutos y los segundos.
+Creado por @xurxorguezz_
 
-## Features
-- Clean, minimalist design with circular progress indicators
-- Color-coded time display:
-  - Purple ring for hours
-  - Light blue ring for minutes
-  - Black/gold ring for seconds
-- PM indicator
-- Smooth animations
-- Responsive design
+## Características
+- Diseño limpio y minimalista con indicadores de progreso circulares
+- Visualización de la hora codificada por colores:
+  - Anillo morado para las horas
+  - Anillo azul claro para los minutos
+  - Anillo negro/dorado para los segundos
+- Indicador PM
+- Animaciones fluidas
+- Diseño adaptable
 
-## Technologies Used
+## Tecnologías utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
 
-# Live Demo
-[View Live Demo](https://xurxorguezz.github.io/LaHoraDeXurxo)
+# Demo en vivo
+[Ver demostración en vivo](https://xurxorguezz.github.io/LaHoraDeXurxo)
 
-## Installation
+## Instalación
 
-1.- Clone the repository:
+1.- Clona el repositorio:
 
 ```bash
 git clone https://github.com/xurxorguezz_/LaHoraDeXurxo.git
 ```
 
-Open `index.html` in your preferred browser
+Abre `index.html` en tu navegador preferido
 
-## Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+## Contribuir
+Contribuciones, problemas y peticiones de funcionalidades son bienvenidas. No dudes en consultar la página de incidencias.
+
+Traducción realizada con la versión gratuita del traductor DeepL.com
